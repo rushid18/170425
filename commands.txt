@@ -1,0 +1,64 @@
+Here are step-by-step GitHub commands you can use to manage your repository:
+
+1. **Initialize a Git repository**:
+    ```bash
+    git init
+    ```
+
+2. **Check the status of your repository**:
+    ```bash
+    git status
+    ```
+
+3. **Add files to the staging area**:
+    ```bash
+    git add <filename>  # To add a specific file
+    git add .           # To add all files
+    ```
+
+4. **Commit changes**:
+    ```bash
+    git commit -m "Your commit message"
+    ```
+
+5. **Connect to a remote repository**:
+    ```bash
+    git remote add origin <repository-URL>
+    ```
+
+6. **Push changes to the remote repository**:
+    ```bash
+    git push -u origin main  # Replace 'main' with your branch name if different
+    ```
+
+7. **Pull changes from the remote repository**:
+    ```bash
+    git pull origin main  # Replace 'main' with your branch name if different
+    ```
+
+8. **Clone an existing repository**:
+    ```bash
+    git clone <repository-URL>
+    ```
+
+9. **Create a new branch**:
+    ```bash
+    git branch <branch-name>
+    ```
+
+10. **Switch to a branch**:
+     ```bash
+     git checkout <branch-name>
+     ```
+
+11. **Merge a branch**:
+     ```bash
+     git merge <branch-name>
+     ```
+
+12. **View commit history**:
+     ```bash
+     git log
+     ```
+
+Let me know if you need further clarification!
