@@ -60,5 +60,4 @@ Here are step-by-step GitHub commands you can use to manage your repository:
      ```bash
      git log
      ```
-this is new changes
-Let me know if you need further clarification!
+
